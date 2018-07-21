@@ -1,4 +1,7 @@
+ some of luxury cars and branch3 are--
+======
 some of luxury cars and unicorn are--
+
 lamborghini
 buggati
 ferari
@@ -9,4 +12,4 @@ new car added by master
 rolls royce
 mustang
 BMW
-unicorn -->it is a new branch of commit such as master to make experiment on repository file without disturbing the ongoing default commit(in master) .If our experiment pass then we could merge them in master branch 
+branch3 -->it is a new branch of commit such as master to make experiment on repository file without disturbing the ongoing default commit(in master) .If our experiment pass then we could merge them in master branch 
